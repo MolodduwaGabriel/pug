@@ -10,7 +10,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "npx nodemon server.js"
+     "start": "npx nodemon server.js"
+
   },
   "author": "",
   "license": "ISC"
